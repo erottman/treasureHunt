@@ -1,0 +1,11 @@
+body {
+  background-position: center;
+  text-align: center;
+  background-color: beige;
+}
+
+
+#map {
+  width="400"
+  height="400"
+}
